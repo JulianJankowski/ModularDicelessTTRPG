@@ -8,3 +8,8 @@ While creating this character, use the provided character sheet to fill in the i
 
 ## 1. Choosing a species
 Within the world of you GM, there will be one of more playable species to choose from. Perhaps the world is a multi-racial fantasy world, with elves, dwarves, halflings and gnomes, or a universe spanning multiple planets with a variety of alien species. A species may also have a subspecies, such as wood elves or high elves for the elven species. Choose a species, and a subspecies if applicable, and then note the features and traits of your choice on your character sheet.
+
+## 2. Choosing a background
+With your characters species selected, you should now select the background best befitting the character you have created. Has you character spent their life an urchin living on the streets, or a member of a noble house. Have they served in the military, or are they a bounty hunter, living off money from the contracts they collect. Choose a background, and add the relevant items and bonuses to your character
+
+## 3. Choosing a class
