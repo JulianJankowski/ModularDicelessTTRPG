@@ -18,4 +18,4 @@ Most mundane actions, like walking, writing, speaking, etc. are part of life for
 | Medium          | DR 15  |
 | Hard            | DR 19  |
 | Very Hard       | DR 23  |
-| Near Impossible | DR 15  |
+| Near Impossible | DR 28  |
